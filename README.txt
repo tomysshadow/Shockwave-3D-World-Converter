@@ -3,7 +3,7 @@ By Anthony Kleine
 
 	This tool converts Shockwave 3D World Files (W3D)
 	to Wavefront OBJ, Material and
-	Texture Files (OBJ, MTL, and TIFF.)
+	Image Files (OBJ, MTL, and TIFF.)
 	
 	Made in Adobe Director 11 (Hotfix 3.) Requires
 	MUI Xtra, LeechProtectionRemovalHelp Xtra, and
