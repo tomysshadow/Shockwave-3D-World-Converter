@@ -1,13 +1,13 @@
-Shockwave 3D World Converter 1.0.2
+Shockwave 3D World Converter 1.0.3
 By Anthony Kleine
 
 	This tool converts Shockwave 3D World Files (W3D)
 	to Wavefront OBJ, Material and
 	Image Files (OBJ, MTL, and TIFF.)
 	
-	Made in Adobe Director 11 (Hotfix 3.) Requires
+	Made in Adobe Director 11.5.9.629. Requires
 	MUI Xtra, LeechProtectionRemovalHelp Xtra, and
-	awaSW3D Xtra.
+	awaSW3D Xtra (Beta.)
 	
 	Cannot currently export Bones.
 	
