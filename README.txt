@@ -1,4 +1,4 @@
-Shockwave 3D World Converter 1.0.7
+Shockwave 3D World Converter 1.0.8
 By Anthony Kleine
 
 	This tool converts Shockwave 3D World Files (W3D)
@@ -6,8 +6,8 @@ By Anthony Kleine
 	Image Files (OBJ, MTL, and TIFF.)
 	
 	Made in Adobe Director 11.5.9.629. Requires
-	MUI Xtra, LeechProtectionRemovalHelp Xtra, and
-	awaSW3D Xtra (Beta.)
+	MUI Xtra, LeechProtectionRemovalHelp Xtra,
+	Drop Xtra, and awaSW3D Xtra (Beta.)
 	
 	Cannot currently export Bones.
 	
