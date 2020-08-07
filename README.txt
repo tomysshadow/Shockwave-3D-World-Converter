@@ -1,4 +1,4 @@
-Shockwave 3D World Converter 1.2.1
+Shockwave 3D World Converter 1.2.2
 By Anthony Kleine
 
 	This tool converts Shockwave 3D World Files (W3D)
