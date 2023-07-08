@@ -1,4 +1,4 @@
-Shockwave 3D World Converter 1.3.5
+Shockwave 3D World Converter 1.3.6
 By Anthony Kleine
 
 	This tool converts Shockwave 3D World Files (W3D)
@@ -7,7 +7,7 @@ By Anthony Kleine
 	
 	Made with Adobe Director 11.5.9.629. Requires
 	LeechProtectionRemovalHelp Xtra, DropXtra,
-	ImgXtra, and awaSW3D Xtra (Beta.)
+	ImgXtra, awaSW3D Xtra (Beta,) and the Shell Xtra.
 	
 	Cannot currently export Bones.
 	
